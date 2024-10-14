@@ -1,0 +1,5 @@
+baseURL = 'https://jacobcorner.tech/'
+languageCode = 'en-gb'
+title = "Jacob's Tech Corner"
+
+theme = ["github.com/onweru/newsroom"]
