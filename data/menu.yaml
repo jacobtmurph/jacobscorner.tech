@@ -1,5 +1,7 @@
 - item: Home
   url: /
+- item: About
+  url: about/
 - item: Posts
   url: posts/
 - item: Setups
