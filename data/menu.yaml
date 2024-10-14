@@ -1,0 +1,6 @@
+- item: Home
+  url: /
+- item: Posts
+  url: posts/
+- item: Setups
+  url: /setups/

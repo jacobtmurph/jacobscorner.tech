@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <div class = 'archive wrap mt'>
+        <h1>My Setups</h1>
+        {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "").ByPublishDate.Reverse }}
+        {{- range $paginator.Pages }}
+        <a class='post_date' href = '{{ .Permalink }}'>
+            <h1 class = 'article_title'>{{ .Title }}</h3>
+            {{- with .Summary -}}
+        </a>
+            <p>{{ . }}</p>
+            {{- end -}}
+        {{- end -}}
+    </div>
+{{ end }}
