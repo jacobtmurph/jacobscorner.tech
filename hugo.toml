@@ -53,7 +53,7 @@ enableEmoji = true
 
 [params.author]
   name = "Jacob Andrews-Murphy"
-  about = "Writer & Web-Developer based in the South-West of England"
+#  about = "Writer and Web-Developer based in the SouthWest of England"
 
 [taxonomies]
   tag = "tags"
@@ -115,6 +115,6 @@ enableEmoji = true
     weight = 10
 
   [[menu.main]]
-    name = "About"
-    url = "abouto/"
-    weight = 20
+    name = "Setups"
+    url = "setups/"
+    weight = 10
