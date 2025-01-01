@@ -5,7 +5,18 @@
 		<description>Recent content in Posts on Jacob&#39;s Tech Corner</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-gb</language>
+		<lastBuildDate>Wed, 01 Jan 2025 20:16:20 +0000</lastBuildDate>
 		<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>//localhost:1313/posts/test/</link>
+			<pubDate>Wed, 01 Jan 2025 20:16:20 +0000</pubDate>
+			
+			<guid>//localhost:1313/posts/test/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
 		
 	</channel>
 </rss>
