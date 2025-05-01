@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FirstPost on Jacob&#39;s Tech Corner</title>
+    <link>//localhost:1313/tags/firstpost/</link>
+    <description>Recent content in FirstPost on Jacob&#39;s Tech Corner</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 28 Apr 2025 14:18:21 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/firstpost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interest</title>
+      <link>//localhost:1313/posts/interest/</link>
+      <pubDate>Mon, 28 Apr 2025 14:18:21 +0100</pubDate>
+      <guid>//localhost:1313/posts/interest/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

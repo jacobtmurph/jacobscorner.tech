@@ -1,12 +1,6 @@
-# THIS IS AN EXAMPLE ON HOW YOU SHOULD CONFIGURE YOUR hugo.toml
-# See this hugo.toml in action at https://github.com/1bl4z3r/hermit-V2/blob/staging/hugo.toml
-# Example Site is Staging branch, acessible at https://github.com/1bl4z3r/hermit-V2/tree/staging
-# To see what each config does, refer to https://1bl4z3r.github.io/hermit-V2/en/posts/explaining-configs/
-# Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
 baseURL = "jacobscorner.tech/"
 defaultContentLanguage = "en"
-# defaultContentLanguageInSubdir = true
 theme = "hermit-v2"
 #enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
 
@@ -30,7 +24,6 @@ theme = "hermit-v2"
 languageCode = "en-gb"
 
 title = "Jacob's Tech Corner"
-# enableGitInfo = true
 
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -53,7 +46,6 @@ enableEmoji = true
 
 [params.author]
   name = "Jacob Andrews-Murphy"
-#  about = "Writer and Web-Developer based in the SouthWest of England"
 
 [taxonomies]
   tag = "tags"
@@ -71,10 +63,8 @@ enableEmoji = true
   themeColor = "#494f5c"
 
   homeSubtitle = "A collection of techinal thinking"
-  footerCopyright = ""
+  footerCopyright = "Jacob Andrews-Murphy"
   footerHideThemeName = true
-  # bgImg = ""
-  # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
   justifyContent = false
 
@@ -85,7 +75,7 @@ enableEmoji = true
   scrollToTop = true 
   global_mathjax = false
   readTime = true
-  readTimeSeparator = "Words:"
+  readTimeSeparator = "| "
   # legacyLayout = false
   shareSocial = true
   # googleTagManager = "GTM-XXXXXXXX"
@@ -106,6 +96,10 @@ enableEmoji = true
   [[params.socialLinks]]
     name = "mastodon"
     url = "https://techhub.social/@jacobteemurph"
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/jacobtmurph"
 
 [menu]
 

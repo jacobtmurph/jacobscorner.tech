@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacob&#39;s Tech Corner</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Jacob&#39;s Tech Corner</description>
+    <title>Motivation on Jacob&#39;s Tech Corner</title>
+    <link>//localhost:1313/tags/motivation/</link>
+    <description>Recent content in Motivation on Jacob&#39;s Tech Corner</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 May 2025 12:39:03 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2025</title>
-      <link>//localhost:1313/setups/2025/</link>
-      <pubDate>Thu, 01 May 2025 12:39:03 +0100</pubDate>
-      <guid>//localhost:1313/setups/2025/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 28 Apr 2025 14:18:21 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interest</title>
       <link>//localhost:1313/posts/interest/</link>
