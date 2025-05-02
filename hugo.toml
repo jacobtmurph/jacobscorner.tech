@@ -1,5 +1,5 @@
 
-baseURL = "jacobscorner.tech"
+baseURL = "//jacobscorner.tech"
 defaultContentLanguage = "en"
 theme = "hermit-v2"
 #enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
