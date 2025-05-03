@@ -6,8 +6,15 @@
     <description>Recent content on Jacob&#39;s Tech Corner</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 May 2025 12:39:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 11:26:18 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:1313/posts/introduction/</link>
+      <pubDate>Fri, 02 May 2025 11:26:18 +0100</pubDate>
+      <guid>//localhost:1313/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;about-time&#34;&gt;About Time&lt;a href=&#34;#about-time&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This whole project is probably far overdue. Even more so because I tend to drag my feet about things I actually, &lt;em&gt;really&lt;/em&gt; want to do. Building this site shouldn&amp;rsquo;t have taken as long as it did, but then again maybe it also took as long as I needed it to.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025</title>
       <link>//localhost:1313/setups/2025/</link>

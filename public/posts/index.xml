@@ -6,19 +6,27 @@
 		<description>Recent content in Posts on Jacob&#39;s Tech Corner</description>
 		<generator>Hugo -- 0.142.0</generator>
 		<language>en-gb</language>
-		<lastBuildDate>Mon, 28 Apr 2025 14:18:21 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 02 May 2025 11:26:18 +0100</lastBuildDate>
 		<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
-			<title>Interest</title>
-			<link>//localhost:1313/posts/interest/</link>
-			<pubDate>Mon, 28 Apr 2025 14:18:21 +0100</pubDate><author>Jacob Andrews-Murphy</author><guid>//localhost:1313/posts/interest/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="aaa">AAA<a href="#aaa" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+			<title>Introduction</title>
+			<link>//localhost:1313/posts/introduction/</link>
+			<pubDate>Fri, 02 May 2025 11:26:18 +0100</pubDate><author>Jacob Andrews-Murphy</author><guid>//localhost:1313/posts/introduction/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="about-time">About Time<a href="#about-time" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h1>
+   </svg></a></h2>
+<p>This whole project is probably far overdue. Even more so because I tend to drag my feet about things I actually, <em>really</em> want to do. Building this site shouldn&rsquo;t have taken as long as it did, but then again maybe it also took as long as I needed it to.</p>
+<p>But I&rsquo;m jumping ahead of myself. Who the heck am I? And what is this curious little site all about?</p>
+<h2 id="first-things-first">First Things First<a href="#first-things-first" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Well, in answer to your first questsion, my name is Jacob. I&rsquo;m a 20 something web-developer and tech enthusiast. I hail from Northern Ireland, but live in England, and I&rsquo;ve always enjoyed writing. I&rsquo;ve always liked technology too</p>
 ]]></content>
 		</item>
 		
