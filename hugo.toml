@@ -62,11 +62,11 @@ enableEmoji = true
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A collection of techinal thinking"
+  homeSubtitle = "A collection of technological thinking"
   footerCopyright = "Jacob Andrews-Murphy"
   footerHideThemeName = true
 
-  justifyContent = false
+  justifyContent = true
 
   relatedPosts = true
   code_copy_button = true
@@ -94,8 +94,8 @@ enableEmoji = true
   # usesAnimation = true
   
   [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://techhub.social/@jacobteemurph"
+    name = "bluesky"
+    url = "https://bsky.app/profile/jacob.andrewsmurphy.online"
 
   [[params.socialLinks]]
     name = "github"
