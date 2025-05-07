@@ -45,4 +45,4 @@ That said, there are few cool bits and bobs here already that might catch your e
 'Nuff said for now, I think. So despite a delayed launch, here we are. I look forward to poking my head back in when there's more to report.
 [^1]: For my sins, as we say back home.
 [^2]: Not an affiliate link, by the way.
-[^3]: It saves time on long discussions about topics people may or may not be mildly interest in if you can just hand them a blog post they can read or not read later.
+[^3]: It saves time on long discussions about topics people may or may not be mildly interested in if you can just hand them a blog post they can read or not read later.
